@@ -1,3 +1,5 @@
+![project-showcase](https://github.com/Alejandrehl/dice-app/blob/master/images/readme.png)
+
 ### Notes
 
 - You can show widget properties in flutter inspector.
